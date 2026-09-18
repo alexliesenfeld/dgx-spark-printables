@@ -110,6 +110,17 @@ https://github.com/user-attachments/assets/ac608dab-5ee2-4ecf-ad42-badc45d0a388
 [Bottom-plate 3MF](spark-atom/spark_atom_print_plate.3mf) ·
 [Side-mount 3MF](spark-atom/spark_atom_print_sides.3mf)
 
+## Support
+
+If you find these models useful, consider supporting the project.
+
+Your support helps improve the current models and develop more 3D-printable
+mounts, gadgets, and utilities for NVIDIA DGX Spark and other GB10 systems
+in the future.
+
+<a href="https://buymeacoffee.com/alexliesenfeld"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" height="40"></a>
+<a href="https://github.com/sponsors/alexliesenfeld"><img src=".github/assets/github-sponsors.svg" alt="GitHub Sponsors" height="40"></a>
+
 ## Device fit and vendor variants
 
 Both models currently use a **150 × 150 × 50.5 mm** device envelope. They are
@@ -141,17 +152,6 @@ before mounting the device.
 
 The original MP4 videos, PNG previews, Blender scenes, and rendering scripts are
 in each model's `turnarounds/` directory. Click a preview image to open its MP4.
-
-## Support
-
-If you find these models useful, consider supporting the project.
-
-Your support helps improve the current models and develop more 3D-printable
-mounts, gadgets, and utilities for NVIDIA DGX Spark and other GB10 systems
-in the future.
-
-<a href="https://buymeacoffee.com/alexliesenfeld"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" height="40"></a>
-<a href="https://github.com/sponsors/alexliesenfeld"><img src=".github/assets/github-sponsors.svg" alt="GitHub Sponsors" height="40"></a>
 
 ## License
 
