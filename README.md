@@ -7,9 +7,6 @@
 The repository includes editable `.scad` sources, `.stl` exports, `.3mf` print
 projects, and rendered previews and 360° turnaround videos of both designs.
 
-<a href="https://buymeacoffee.com/alexliesenfeld"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" height="40"></a>
-<a href="https://github.com/sponsors/alexliesenfeld"><img src=".github/assets/github-sponsors.svg" alt="GitHub Sponsors" height="40"></a>
-
 ## 10-inch rack mount
 
 [`spark-rack-10/`](spark-rack-10/) holds the computer behind a **254 × 88 mm
@@ -153,8 +150,8 @@ Your support helps improve the current models and develop more 3D-printable
 mounts, gadgets, and utilities for NVIDIA DGX Spark and other GB10 systems
 in the future.
 
-[Buy Me a Coffee](https://buymeacoffee.com/alexliesenfeld) ·
-[GitHub Sponsors](https://github.com/sponsors/alexliesenfeld)
+<a href="https://buymeacoffee.com/alexliesenfeld"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" height="40"></a>
+<a href="https://github.com/sponsors/alexliesenfeld"><img src=".github/assets/github-sponsors.svg" alt="GitHub Sponsors" height="40"></a>
 
 ## License
 
